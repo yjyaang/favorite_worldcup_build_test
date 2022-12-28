@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a754cfdb.css",
+    "main.js": "/static/js/main.96d3e588.js",
+    "static/media/GmarketSansMedium.woff": "/static/media/GmarketSansMedium.03eaf662577931a3a5fb.woff",
+    "index.html": "/index.html",
+    "main.a754cfdb.css.map": "/static/css/main.a754cfdb.css.map",
+    "main.96d3e588.js.map": "/static/js/main.96d3e588.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a754cfdb.css",
+    "static/js/main.96d3e588.js"
+  ]
+}
