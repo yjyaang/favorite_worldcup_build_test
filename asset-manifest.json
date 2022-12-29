@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/favorite_worldcup_build_test/static/css/main.57c177ee.css",
-    "main.js": "/favorite_worldcup_build_test/static/js/main.016f3365.js",
+    "main.js": "/favorite_worldcup_build_test/static/js/main.23c76ac3.js",
     "static/media/GmarketSansMedium.woff": "/favorite_worldcup_build_test/static/media/GmarketSansMedium.03eaf662577931a3a5fb.woff",
     "static/media/bazzi_cut.png": "/favorite_worldcup_build_test/static/media/bazzi_cut.3881c26cdd4527ffd6b9.png",
     "static/media/PyeongChangPeace-Bold.woff2": "/favorite_worldcup_build_test/static/media/PyeongChangPeace-Bold.bdc91140fc9cb4293d30.woff2",
     "index.html": "/favorite_worldcup_build_test/index.html",
     "main.57c177ee.css.map": "/favorite_worldcup_build_test/static/css/main.57c177ee.css.map",
-    "main.016f3365.js.map": "/favorite_worldcup_build_test/static/js/main.016f3365.js.map"
+    "main.23c76ac3.js.map": "/favorite_worldcup_build_test/static/js/main.23c76ac3.js.map"
   },
   "entrypoints": [
     "static/css/main.57c177ee.css",
-    "static/js/main.016f3365.js"
+    "static/js/main.23c76ac3.js"
   ]
 }
